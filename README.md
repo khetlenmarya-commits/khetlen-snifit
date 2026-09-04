@@ -1,4 +1,4 @@
-===SISTEMA HDL ±6.3 | MENOS VULNERÁVEL ===
+=== SISTEMA HDL ±6.3 | MENOS VULNERÁVEL ===
 Id: sistema_estavel_6_3 | Tipo: VHDL | Bits: 12 (ponto fixo)
 Características: Reset assíncrono, sincronização total, suporte ±, sem glitches
 
